@@ -2,7 +2,7 @@
  *Name: Elif Ay
  *Date: 23/11//21
  *Description: Random number finding game
- */
+ */ 
 
 import java.util.Locale;
 import java.util.Random;
