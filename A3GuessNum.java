@@ -1,7 +1,7 @@
 /*
- *Name: elif
+ *Name: Elif Ay
  *Date: 23/11//21
- *Description: random number finding game
+ *Description: Random number finding game
  */
 
 import java.util.Locale;
