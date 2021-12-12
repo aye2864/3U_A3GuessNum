@@ -54,7 +54,7 @@ public class A3GuessNum {
                         System.out.println("Hot");
                     }
                 }
-            } while (guess != random);
+            } while (guess != random); 
 
             do {
                 System.out.println("Do you want to play again? ([Y]es/[N]o)");
